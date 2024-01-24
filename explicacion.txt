@@ -1,3 +1,0 @@
-En está aplicación para crear una tarea te vas a Thunder Client (icono abajo del todo del visual) y con un metodo POST a localhost:5000/tasks y abajo cambias el title y descripción si quieres. Le das a SEND y se crea
-
-En clever cloud abres tu base de datos a la izq (empieza con b y despues muchos caracteres), te vas a la tabla tasks y ahi te sale la task (En la pestaña Examinar)
